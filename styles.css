@@ -13,7 +13,7 @@ button {
     color: black;
     background-color: white;
     border-radius: 15px;
-    border: solid 2px red;
+    border: solid 2px black;
     padding: 10px 20px;
     transition-duration: 0.4s;
 }
